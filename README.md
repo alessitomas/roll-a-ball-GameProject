@@ -22,8 +22,9 @@ WallRider is an exciting Unity game where players control a ball through various
 - *Jungle Level* by SintelV ([License](https://freesound.org/s/669543/))
 - *Damage* by qubodup ([License](https://freesound.org/s/211634/))
 
-**Skybox Credit:** Midgard Skybox 2 ([Asset Store](https://assetstore.unity.com/packages/2d/textures-materials/sky/midgard-skybox-2))
+**Material Assets:**
 
+**Skybox Credit:** Midgard Skybox 2 ([Asset Store](https://assetstore.unity.com/packages/2d/textures-materials/sky/midgard-skybox-2))
 **Materials Credit:** Yughues Free Metal Materials ([Asset Store](https://assetstore.unity.com/packages/2d/textures-materials/metals/yughues-free-metal-materials-12950))
 
 ![WallRider Gameplay](wallRider.png)
